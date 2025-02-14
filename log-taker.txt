@@ -97,3 +97,16 @@
 2/14/2025 | 6:44:11 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/14/2025 | 6:44:11 AM | INFO | Trying to activate mining on-chain for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
 2/14/2025 | 6:44:22 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0dc6171d69f24aa70098842d2de8747101d490b9d78c1637a2e1000036a51bc9 
+2/14/2025 | 8:12:05 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/14/2025 | 8:12:05 AM | INFO | Start process for wallet 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+2/14/2025 | 8:12:05 AM | ERROR | Failed to get nonce: Request failed with status code 502
+2/14/2025 | 8:12:05 AM | WARN | Retrying... (2 attempts left) 
+2/14/2025 | 8:13:09 AM | ERROR | Failed to get nonce: Request failed with status code 502
+2/14/2025 | 8:13:09 AM | WARN | Retrying... (1 attempts left) 
+2/14/2025 | 8:14:13 AM | INFO | Trying To Login for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+2/14/2025 | 8:14:14 AM | INFO | Login successful... 
+2/14/2025 | 8:14:14 AM | INFO | Trying to check user info... 
+2/14/2025 | 8:14:15 AM | INFO | User ID: 99140308 | Twitter: @laisawilona | Total Points: 48000 
+2/14/2025 | 8:14:15 AM | INFO | Trying to check user miner status... 
+2/14/2025 | 8:14:15 AM | INFO | Last mining time: 2/14/2025, 6:44:21 AM
+2/14/2025 | 8:14:15 AM | WARN | Mining already started, next mining time is: 2/15/2025, 6:44:21 AM
