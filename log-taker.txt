@@ -2614,3 +2614,12 @@
 3/31/2025 | 8:11:01 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/31/2025 | 8:11:01 PM | INFO | Trying to activate mining on-chain for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
 3/31/2025 | 8:11:13 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x7acdf21c2d81c881af4f9e4c58ad8d3fdeb0410744988b3b7782836756201ea3 
+4/1/2025 | 12:52:56 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/1/2025 | 12:52:56 AM | INFO | Start process for wallet 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+4/1/2025 | 12:52:57 AM | INFO | Trying To Login for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+4/1/2025 | 12:52:58 AM | INFO | Login successful... 
+4/1/2025 | 12:52:58 AM | INFO | Trying to check user info... 
+4/1/2025 | 12:52:59 AM | INFO | User ID: 99140308 | Twitter: @laisawilona | Total Points: 984000 
+4/1/2025 | 12:52:59 AM | INFO | Trying to check user miner status... 
+4/1/2025 | 12:52:59 AM | INFO | Last mining time: 3/31/2025, 8:11:09 PM
+4/1/2025 | 12:52:59 AM | WARN | Mining already started, next mining time is: 4/1/2025, 8:11:09 PM
