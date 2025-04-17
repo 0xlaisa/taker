@@ -3559,3 +3559,16 @@
 4/17/2025 | 12:17:41 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:17:42 PM | INFO | Last mining time: 4/16/2025, 12:18:27 PM
 4/17/2025 | 12:17:42 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:18:27 PM
+4/17/2025 | 4:11:58 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:11:59 PM | INFO | Start process for wallet 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+4/17/2025 | 4:11:59 PM | INFO | Trying To Login for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+4/17/2025 | 4:12:00 PM | INFO | Login successful... 
+4/17/2025 | 4:12:00 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:12:01 PM | INFO | User ID: 99140308 | Twitter: @laisawilona | Total Points: 1320000 
+4/17/2025 | 4:12:01 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:12:11 PM | INFO | Last mining time: 4/16/2025, 12:18:27 PM
+4/17/2025 | 4:12:11 PM | INFO | Trying to start Mining for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+4/17/2025 | 4:12:22 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/17/2025 | 4:12:22 PM | INFO | Trying to activate mining on-chain for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+4/17/2025 | 4:14:56 PM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 4:14:56 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
