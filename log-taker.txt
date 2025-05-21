@@ -5501,3 +5501,16 @@
 5/21/2025 | 8:14:03 AM | INFO | Trying to check user miner status... 
 5/21/2025 | 8:14:04 AM | INFO | Last mining time: 5/20/2025, 8:14:42 AM
 5/21/2025 | 8:14:04 AM | WARN | Mining already started, next mining time is: 5/21/2025, 8:14:42 AM
+5/21/2025 | 12:19:08 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 12:19:08 PM | INFO | Start process for wallet 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+5/21/2025 | 12:19:09 PM | INFO | Trying To Login for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+5/21/2025 | 12:19:10 PM | INFO | Login successful... 
+5/21/2025 | 12:19:10 PM | INFO | Trying to check user info... 
+5/21/2025 | 12:19:10 PM | INFO | User ID: 99140308 | Twitter: @laisawilona | Total Points: 2016000 
+5/21/2025 | 12:19:10 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 12:19:11 PM | INFO | Last mining time: 5/20/2025, 8:14:42 AM
+5/21/2025 | 12:19:11 PM | INFO | Trying to start Mining for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+5/21/2025 | 12:19:12 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/21/2025 | 12:19:12 PM | INFO | Trying to activate mining on-chain for wallet: 0x4e503C3239076E6680524002C9A323f5CcfCA51F 
+5/21/2025 | 12:19:16 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655a80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a0ea9b9af6900f1b833bd4e1b620d0a899552125aee37ce6c864fe8fc3a536ab38a02723c3054fc24a3f8705885873657191766445f7ab5b142d0aec1706a2c16120","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/21/2025 | 12:19:16 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
